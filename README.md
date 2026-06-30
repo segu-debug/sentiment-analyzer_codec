@@ -55,7 +55,7 @@ Then open the local Flask URL in your browser.
 ## Screenshot
 
 ![Sentiment Analyzer Result](screenshots/screenshot-sentiment-analyzer.jpg)
-
+https://github.com/segu-debug/sentiment-analyzer_codec/blob/main/screeenshots/screenshot-sentiment-analyzer.png
 ## Example Inputs
 
 - `This product is amazing and works perfectly.`
