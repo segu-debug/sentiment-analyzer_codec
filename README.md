@@ -52,6 +52,9 @@ python app.py
 ```
 
 Then open the local Flask URL in your browser.
+## Screenshot
+
+![Sentiment Analyzer Result](screenshots/sentiment-analyzer.jpg)
 
 ## Example Inputs
 
